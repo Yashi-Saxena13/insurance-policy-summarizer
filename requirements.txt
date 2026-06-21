@@ -1,0 +1,6 @@
+litellm
+python-dotenv
+google-generativeai
+groq
+
+# Install everything using : pip install -r requirements.txt
